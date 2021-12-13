@@ -12,8 +12,21 @@ table {
     width: 100%;
 }
 
+th {
+    color: black;
+    font-weight: bold;
+}
+
 h1 {
     width: 100%;
     text-align: center;
     margin-bottom: 3rem;
+}
+
+.edit {
+    color: royalblue;
+}
+
+.delete {
+    color: red;
 }
