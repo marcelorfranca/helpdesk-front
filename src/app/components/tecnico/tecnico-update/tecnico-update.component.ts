@@ -31,7 +31,7 @@ export class TecnicoUpdateComponent implements OnInit {
     private service: TecnicoService,
     private toast: ToastrService,
     private router: Router,
-    private route: ActivatedRoute,
+    private route: ActivatedRoute, /* ele pega um parametro na URL, no caso o id */
      ) { }
 
   ngOnInit(): void { /* componente que se inicia */
