@@ -1,0 +1,38 @@
+.contanier {
+    width: 95%;
+    margin: auto;
+    margin-top: 1rem;
+}
+
+table {
+    width: 100%;
+}
+
+.mat-form-field {
+    width: 100%;
+}
+
+th {
+    color: black;
+    font-weight: bold;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.edit {
+    color: royalblue;
+}
+
+.delete {
+    color: red;
+}
+
+mat-radio-group {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1rem;
+}
