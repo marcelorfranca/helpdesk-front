@@ -44,6 +44,7 @@ import { ClienteListComponent } from './components/cliente/cliente-list/cliente-
 import { ChamadoListComponent } from './components/chamado/chamado-list/chamado-list.component';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
